@@ -9,7 +9,7 @@ public class AwayTeam implements Team {
 
 	
 	public Match getMatches() {
-		Match match = new Match("Arcenal","Man City",5,2);		
+		Match match = new Match("Arsenal","Man City",5,2);		
 		return match;
 	}
 	
