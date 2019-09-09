@@ -16,9 +16,9 @@
 			<th>WON</th>
 			<th>DRAW</th>
 			<th>LOST</th>
-			<th>GOLDS FOR</th>
-			<th>GOLDS AGAINST</th>
-			<th>GOLDS DIFFERENTS</th>
+			<th>GOALS FOR</th>
+			<th>GOALS AGAINST</th>
+			<th>GOALS DIFFERENTS</th>
 			<th>POINTS</th>
 		</tr>
 
