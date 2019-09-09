@@ -13,7 +13,7 @@
 	<table border="1">
 		<tr>
 			<th>TEAM NAME</th>
-			<th>PLAIED</th>
+			<th>PLAYED</th>
 			<th>WON</th>
 			<th>DRAW</th>
 			<th>LOST</th>
