@@ -46,7 +46,7 @@ public class AddLeagueEntry {
 	 */
 	public LegueTableEntry getTableEntryForAwayTeam() {
 		Team team = getTeam(new AwayTeam());
-		String teamName = "away team: " + team.getTeamName();
+		String teamName = "Away team: " + team.getTeamName();
 		LegueTableEntry entry = new LegueTableEntry(teamName, team.getPlayed(), team.getWon(), team.getDraw(),
 				team.getLost(), team.getGoalsFor(), team.getGoalsAgainst(), team.getGoalDifference(), team.getPoints());
 
