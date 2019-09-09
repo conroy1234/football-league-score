@@ -18,7 +18,7 @@
 			<th>LOST</th>
 			<th>GOALS FOR</th>
 			<th>GOALS AGAINST</th>
-			<th>GOALS DIFFERENTS</th>
+			<th>GOALS DIFFERENCES</th>
 			<th>POINTS</th>
 		</tr>
 
