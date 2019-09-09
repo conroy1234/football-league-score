@@ -12,6 +12,7 @@
 <c:if test="${not empty entries}">
 	<table border="1">
 		<tr>
+			<th>TEAM NAME</th>
 			<th>PLAIED</th>
 			<th>WON</th>
 			<th>DRAW</th>
